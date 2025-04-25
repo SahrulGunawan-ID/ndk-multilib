@@ -1,0 +1,2 @@
+# ndk-multilib
+ NDK-MULTILIB 
